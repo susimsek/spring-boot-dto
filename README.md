@@ -1,2 +1,2 @@
-# spring-boot-dto
-Spring Boot DTO Example
+# springboot-swagger
+Spring Boot Swagger Example
